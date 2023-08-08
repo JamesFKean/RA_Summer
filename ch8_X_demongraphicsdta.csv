@@ -1,0 +1,605 @@
+,Year,var,val
+0,1950,A Population,2.477674732
+1,1951,A Population,2.520969582
+2,1952,A Population,2.565291179
+3,1953,A Population,2.615250618
+4,1954,A Population,2.665306975
+5,1955,A Population,2.718651703
+6,1956,A Population,2.773492579
+7,1957,A Population,2.828512683
+8,1958,A Population,2.88722103
+9,1959,A Population,2.944995164
+10,1960,A Population,2.995589212
+11,1961,A Population,3.042877656
+12,1962,A Population,3.093863563
+13,1963,A Population,3.159509922
+14,1964,A Population,3.232048572
+15,1965,A Population,3.302376104
+16,1966,A Population,3.371847862
+17,1967,A Population,3.440986209
+18,1968,A Population,3.509910122
+19,1969,A Population,3.583711493
+20,1970,A Population,3.657599057
+21,1971,A Population,3.733181615
+22,1972,A Population,3.807144569
+23,1973,A Population,3.882457201
+24,1974,A Population,3.958045806
+25,1975,A Population,4.032988348
+26,1976,A Population,4.105886113
+27,1977,A Population,4.179125652
+28,1978,A Population,4.252419327
+29,1979,A Population,4.326896089
+30,1980,A Population,4.404269653
+31,1981,A Population,4.483745758
+32,1982,A Population,4.565509559
+33,1983,A Population,4.650460182
+34,1984,A Population,4.733308294
+35,1985,A Population,4.818363854
+36,1986,A Population,4.905097372
+37,1987,A Population,4.995029307
+38,1988,A Population,5.086939683
+39,1989,A Population,5.177648264
+40,1990,A Population,5.269760352
+41,1991,A Population,5.362591372
+42,1992,A Population,5.449900363
+43,1993,A Population,5.535471822
+44,1994,A Population,5.619395224
+45,1995,A Population,5.702060762
+46,1996,A Population,5.784378146
+47,1997,A Population,5.86591245
+48,1998,A Population,5.947050072
+49,1999,A Population,6.027574888
+50,2000,A Population,6.107942028
+51,2001,A Population,6.189855922
+52,2002,A Population,6.271638043
+53,2003,A Population,6.353176677
+54,2004,A Population,6.434620053
+55,2005,A Population,6.516882903
+56,2006,A Population,6.599469335
+57,2007,A Population,6.683363101
+58,2008,A Population,6.768533988
+59,2009,A Population,6.854660556
+60,2010,A Population,6.94195126
+61,2011,A Population,7.02925495
+62,2012,A Population,7.1169959
+63,2013,A Population,7.206399942
+64,2014,A Population,7.294786798
+65,2015,A Population,7.38324004
+66,2016,A Population,7.469955033
+67,2017,A Population,7.556993443
+68,2018,A Population,7.642651364
+69,2019,A Population,7.724928292
+70,2020,A Population,7.804973773
+71,2021,A Population,7.876931987
+72,2022,A Population,7.941658316
+73,2023,A Population,8.008551995
+74,2024,A Population,8.0820709
+75,2025,A Population,8.155601099
+76,2026,A Population,8.228375807
+77,2027,A Population,8.300353212
+78,2028,A Population,8.37160213
+79,2029,A Population,8.442055453
+80,2030,A Population,8.511723329
+81,2031,A Population,8.580559324
+82,2032,A Population,8.648506165
+83,2033,A Population,8.715677802
+84,2034,A Population,8.781919281
+85,2035,A Population,8.847231061
+86,2036,A Population,8.911563741
+87,2037,A Population,8.974849663
+88,2038,A Population,9.037203076
+89,2039,A Population,9.098574977
+90,2040,A Population,9.158747453
+91,2041,A Population,9.217753531
+92,2042,A Population,9.27559307
+93,2043,A Population,9.332200631
+94,2044,A Population,9.38747221
+95,2045,A Population,9.441344637
+96,2046,A Population,9.493742512
+97,2047,A Population,9.544639095
+98,2048,A Population,9.593956678
+99,2049,A Population,9.641592262
+100,2050,A Population,9.687440029
+101,2051,A Population,9.731543492
+102,2052,A Population,9.773770339
+103,2053,A Population,9.814433747
+104,2054,A Population,9.853288635
+105,2055,A Population,9.890512569
+106,2056,A Population,9.926097169
+107,2057,A Population,9.960149356
+108,2058,A Population,9.992730945
+109,2059,A Population,10.02388928
+110,2060,A Population,10.05352245
+111,2061,A Population,10.08194477
+112,2062,A Population,10.10920136
+113,2063,A Population,10.135414
+114,2064,A Population,10.16048423
+115,2065,A Population,10.18454332
+116,2066,A Population,10.20738648
+117,2067,A Population,10.22915955
+118,2068,A Population,10.25000801
+119,2069,A Population,10.26973797
+120,2070,A Population,10.28841177
+121,2071,A Population,10.30592166
+122,2072,A Population,10.32236295
+123,2073,A Population,10.33775676
+124,2074,A Population,10.35202623
+125,2075,A Population,10.3650793
+126,2076,A Population,10.3769091
+127,2077,A Population,10.3874517
+128,2078,A Population,10.3967123
+129,2079,A Population,10.4047872
+130,2080,A Population,10.41174664
+131,2081,A Population,10.41752774
+132,2082,A Population,10.42217524
+133,2083,A Population,10.42587055
+134,2084,A Population,10.42858225
+135,2085,A Population,10.43031254
+136,2086,A Population,10.43104566
+137,2087,A Population,10.4308069
+138,2088,A Population,10.42972835
+139,2089,A Population,10.4279329
+140,2090,A Population,10.42526939
+141,2091,A Population,10.42181268
+142,2092,A Population,10.41748158
+143,2093,A Population,10.41243808
+144,2094,A Population,10.4065441
+145,2095,A Population,10.4000002
+146,2096,A Population,10.39261149
+147,2097,A Population,10.38442281
+148,2098,A Population,10.37535409
+149,2099,A Population,10.36553631
+150,2100,A Population,10.35500242
+151,1950,B Median Age,22.224
+152,1951,B Median Age,22.172
+153,1952,B Median Age,22.108
+154,1953,B Median Age,22.036
+155,1954,B Median Age,21.952
+156,1955,B Median Age,21.845
+157,1956,B Median Age,21.742
+158,1957,B Median Age,21.634
+159,1958,B Median Age,21.532
+160,1959,B Median Age,21.478
+161,1960,B Median Age,21.461
+162,1961,B Median Age,21.448
+163,1962,B Median Age,21.371
+164,1963,B Median Age,21.204
+165,1964,B Median Age,21.008
+166,1965,B Median Age,20.815
+167,1966,B Median Age,20.633
+168,1967,B Median Age,20.491
+169,1968,B Median Age,20.401
+170,1969,B Median Age,20.343
+171,1970,B Median Age,20.32
+172,1971,B Median Age,20.332
+173,1972,B Median Age,20.379
+174,1973,B Median Age,20.457
+175,1974,B Median Age,20.562
+176,1975,B Median Age,20.692
+177,1976,B Median Age,20.84
+178,1977,B Median Age,21.007
+179,1978,B Median Age,21.177
+180,1979,B Median Age,21.345
+181,1980,B Median Age,21.505
+182,1981,B Median Age,21.642
+183,1982,B Median Age,21.741
+184,1983,B Median Age,21.826
+185,1984,B Median Age,21.916
+186,1985,B Median Age,22.04
+187,1986,B Median Age,22.224
+188,1987,B Median Age,22.417
+189,1988,B Median Age,22.604
+190,1989,B Median Age,22.783
+191,1990,B Median Age,22.96
+192,1991,B Median Age,23.144
+193,1992,B Median Age,23.353
+194,1993,B Median Age,23.575
+195,1994,B Median Age,23.81
+196,1995,B Median Age,24.051
+197,1996,B Median Age,24.293
+198,1997,B Median Age,24.534
+199,1998,B Median Age,24.777
+200,1999,B Median Age,25.018
+201,2000,B Median Age,25.25
+202,2001,B Median Age,25.47
+203,2002,B Median Age,25.679
+204,2003,B Median Age,25.882
+205,2004,B Median Age,26.08
+206,2005,B Median Age,26.273
+207,2006,B Median Age,26.47
+208,2007,B Median Age,26.675
+209,2008,B Median Age,26.886
+210,2009,B Median Age,27.102
+211,2010,B Median Age,27.327
+212,2011,B Median Age,27.554
+213,2012,B Median Age,27.775
+214,2013,B Median Age,27.993
+215,2014,B Median Age,28.22
+216,2015,B Median Age,28.456
+217,2016,B Median Age,28.699
+218,2017,B Median Age,28.947
+219,2018,B Median Age,29.204
+220,2019,B Median Age,29.469
+221,2020,B Median Age,29.736
+222,2021,B Median Age,29.996
+223,2022,B Median Age,30.242
+224,2023,B Median Age,30.489
+225,2024,B Median Age,30.736
+226,2025,B Median Age,30.977
+227,2026,B Median Age,31.211
+228,2027,B Median Age,31.44
+229,2028,B Median Age,31.662
+230,2029,B Median Age,31.877
+231,2030,B Median Age,32.086
+232,2031,B Median Age,32.289
+233,2032,B Median Age,32.487
+234,2033,B Median Age,32.682
+235,2034,B Median Age,32.878
+236,2035,B Median Age,33.073
+237,2036,B Median Age,33.263
+238,2037,B Median Age,33.447
+239,2038,B Median Age,33.629
+240,2039,B Median Age,33.81
+241,2040,B Median Age,33.991
+242,2041,B Median Age,34.173
+243,2042,B Median Age,34.357
+244,2043,B Median Age,34.545
+245,2044,B Median Age,34.737
+246,2045,B Median Age,34.932
+247,2046,B Median Age,35.126
+248,2047,B Median Age,35.32
+249,2048,B Median Age,35.517
+250,2049,B Median Age,35.718
+251,2050,B Median Age,35.919
+252,2051,B Median Age,36.117
+253,2052,B Median Age,36.312
+254,2053,B Median Age,36.504
+255,2054,B Median Age,36.694
+256,2055,B Median Age,36.882
+257,2056,B Median Age,37.057
+258,2057,B Median Age,37.218
+259,2058,B Median Age,37.364
+260,2059,B Median Age,37.496
+261,2060,B Median Age,37.618
+262,2061,B Median Age,37.735
+263,2062,B Median Age,37.851
+264,2063,B Median Age,37.967
+265,2064,B Median Age,38.081
+266,2065,B Median Age,38.194
+267,2066,B Median Age,38.308
+268,2067,B Median Age,38.42
+269,2068,B Median Age,38.533
+270,2069,B Median Age,38.646
+271,2070,B Median Age,38.758
+272,2071,B Median Age,38.871
+273,2072,B Median Age,38.985
+274,2073,B Median Age,39.099
+275,2074,B Median Age,39.214
+276,2075,B Median Age,39.33
+277,2076,B Median Age,39.447
+278,2077,B Median Age,39.565
+279,2078,B Median Age,39.685
+280,2079,B Median Age,39.806
+281,2080,B Median Age,39.928
+282,2081,B Median Age,40.051
+283,2082,B Median Age,40.174
+284,2083,B Median Age,40.299
+285,2084,B Median Age,40.425
+286,2085,B Median Age,40.551
+287,2086,B Median Age,40.678
+288,2087,B Median Age,40.805
+289,2088,B Median Age,40.931
+290,2089,B Median Age,41.057
+291,2090,B Median Age,41.182
+292,2091,B Median Age,41.306
+293,2092,B Median Age,41.427
+294,2093,B Median Age,41.545
+295,2094,B Median Age,41.661
+296,2095,B Median Age,41.774
+297,2096,B Median Age,41.884
+298,2097,B Median Age,41.992
+299,2098,B Median Age,42.097
+300,2099,B Median Age,42.2
+301,2100,B Median Age,42.3
+302,1950,C Life Expectancy,46.464
+303,1951,C Life Expectancy,47.144
+304,1952,C Life Expectancy,48.231
+305,1953,C Life Expectancy,48.802
+306,1954,C Life Expectancy,49.592
+307,1955,C Life Expectancy,50.123
+308,1956,C Life Expectancy,50.642
+309,1957,C Life Expectancy,50.945
+310,1958,C Life Expectancy,51.537
+311,1959,C Life Expectancy,49.345
+312,1960,C Life Expectancy,47.697
+313,1961,C Life Expectancy,50.359
+314,1962,C Life Expectancy,53.124
+315,1963,C Life Expectancy,53.576
+316,1964,C Life Expectancy,54.164
+317,1965,C Life Expectancy,53.892
+318,1966,C Life Expectancy,54.472
+319,1967,C Life Expectancy,54.92
+320,1968,C Life Expectancy,55.486
+321,1969,C Life Expectancy,55.829
+322,1970,C Life Expectancy,56.112
+323,1971,C Life Expectancy,55.892
+324,1972,C Life Expectancy,57.123
+325,1973,C Life Expectancy,57.633
+326,1974,C Life Expectancy,58.042
+327,1975,C Life Expectancy,58.275
+328,1976,C Life Expectancy,58.711
+329,1977,C Life Expectancy,59.365
+330,1978,C Life Expectancy,59.74
+331,1979,C Life Expectancy,60.204
+332,1980,C Life Expectancy,60.552
+333,1981,C Life Expectancy,60.992
+334,1982,C Life Expectancy,61.416
+335,1983,C Life Expectancy,61.565
+336,1984,C Life Expectancy,61.907
+337,1985,C Life Expectancy,62.236
+338,1986,C Life Expectancy,62.767
+339,1987,C Life Expectancy,63.158
+340,1988,C Life Expectancy,63.281
+341,1989,C Life Expectancy,63.792
+342,1990,C Life Expectancy,63.988
+343,1991,C Life Expectancy,64.058
+344,1992,C Life Expectancy,64.303
+345,1993,C Life Expectancy,64.437
+346,1994,C Life Expectancy,64.459
+347,1995,C Life Expectancy,64.877
+348,1996,C Life Expectancy,65.143
+349,1997,C Life Expectancy,65.501
+350,1998,C Life Expectancy,65.722
+351,1999,C Life Expectancy,66.073
+352,2000,C Life Expectancy,66.453
+353,2001,C Life Expectancy,66.834
+354,2002,C Life Expectancy,67.137
+355,2003,C Life Expectancy,67.46
+356,2004,C Life Expectancy,67.807
+357,2005,C Life Expectancy,68.205
+358,2006,C Life Expectancy,68.703
+359,2007,C Life Expectancy,69.051
+360,2008,C Life Expectancy,69.301
+361,2009,C Life Expectancy,69.796
+362,2010,C Life Expectancy,70.109
+363,2011,C Life Expectancy,70.53
+364,2012,C Life Expectancy,70.873
+365,2013,C Life Expectancy,71.207
+366,2014,C Life Expectancy,71.565
+367,2015,C Life Expectancy,71.8
+368,2016,C Life Expectancy,72.11
+369,2017,C Life Expectancy,72.327
+370,2018,C Life Expectancy,72.576
+371,2019,C Life Expectancy,72.79
+372,2020,C Life Expectancy,72.036
+373,2021,C Life Expectancy,71.048
+374,2022,C Life Expectancy,71.713
+375,2023,C Life Expectancy,73.357
+376,2024,C Life Expectancy,73.669
+377,2025,C Life Expectancy,73.789
+378,2026,C Life Expectancy,73.948
+379,2027,C Life Expectancy,74.106
+380,2028,C Life Expectancy,74.26
+381,2029,C Life Expectancy,74.414
+382,2030,C Life Expectancy,74.57
+383,2031,C Life Expectancy,74.721
+384,2032,C Life Expectancy,74.871
+385,2033,C Life Expectancy,75.019
+386,2034,C Life Expectancy,75.163
+387,2035,C Life Expectancy,75.307
+388,2036,C Life Expectancy,75.451
+389,2037,C Life Expectancy,75.593
+390,2038,C Life Expectancy,75.733
+391,2039,C Life Expectancy,75.871
+392,2040,C Life Expectancy,76.007
+393,2041,C Life Expectancy,76.145
+394,2042,C Life Expectancy,76.278
+395,2043,C Life Expectancy,76.407
+396,2044,C Life Expectancy,76.535
+397,2045,C Life Expectancy,76.661
+398,2046,C Life Expectancy,76.786
+399,2047,C Life Expectancy,76.904
+400,2048,C Life Expectancy,77.021
+401,2049,C Life Expectancy,77.137
+402,2050,C Life Expectancy,77.248
+403,2051,C Life Expectancy,77.358
+404,2052,C Life Expectancy,77.469
+405,2053,C Life Expectancy,77.578
+406,2054,C Life Expectancy,77.686
+407,2055,C Life Expectancy,77.792
+408,2056,C Life Expectancy,77.895
+409,2057,C Life Expectancy,78.002
+410,2058,C Life Expectancy,78.107
+411,2059,C Life Expectancy,78.21
+412,2060,C Life Expectancy,78.314
+413,2061,C Life Expectancy,78.415
+414,2062,C Life Expectancy,78.518
+415,2063,C Life Expectancy,78.621
+416,2064,C Life Expectancy,78.721
+417,2065,C Life Expectancy,78.824
+418,2066,C Life Expectancy,78.925
+419,2067,C Life Expectancy,79.023
+420,2068,C Life Expectancy,79.122
+421,2069,C Life Expectancy,79.22
+422,2070,C Life Expectancy,79.317
+423,2071,C Life Expectancy,79.416
+424,2072,C Life Expectancy,79.509
+425,2073,C Life Expectancy,79.605
+426,2074,C Life Expectancy,79.699
+427,2075,C Life Expectancy,79.794
+428,2076,C Life Expectancy,79.887
+429,2077,C Life Expectancy,79.981
+430,2078,C Life Expectancy,80.072
+431,2079,C Life Expectancy,80.162
+432,2080,C Life Expectancy,80.253
+433,2081,C Life Expectancy,80.342
+434,2082,C Life Expectancy,80.432
+435,2083,C Life Expectancy,80.525
+436,2084,C Life Expectancy,80.615
+437,2085,C Life Expectancy,80.705
+438,2086,C Life Expectancy,80.797
+439,2087,C Life Expectancy,80.886
+440,2088,C Life Expectancy,80.974
+441,2089,C Life Expectancy,81.066
+442,2090,C Life Expectancy,81.156
+443,2091,C Life Expectancy,81.246
+444,2092,C Life Expectancy,81.335
+445,2093,C Life Expectancy,81.426
+446,2094,C Life Expectancy,81.517
+447,2095,C Life Expectancy,81.609
+448,2096,C Life Expectancy,81.698
+449,2097,C Life Expectancy,81.787
+450,2098,C Life Expectancy,81.877
+451,2099,C Life Expectancy,81.969
+452,2100,C Life Expectancy,82.058
+453,1950,D Fertility Rate,4.86
+454,1951,D Fertility Rate,4.827
+455,1952,D Fertility Rate,5.014
+456,1953,D Fertility Rate,4.937
+457,1954,D Fertility Rate,5.01
+458,1955,D Fertility Rate,5.012
+459,1956,D Fertility Rate,4.939
+460,1957,D Fertility Rate,5.076
+461,1958,D Fertility Rate,4.935
+462,1959,D Fertility Rate,4.741
+463,1960,D Fertility Rate,4.695
+464,1961,D Fertility Rate,4.574
+465,1962,D Fertility Rate,5.03
+466,1963,D Fertility Rate,5.317
+467,1964,D Fertility Rate,5.133
+468,1965,D Fertility Rate,5.081
+469,1966,D Fertility Rate,4.963
+470,1967,D Fertility Rate,4.856
+471,1968,D Fertility Rate,4.963
+472,1969,D Fertility Rate,4.867
+473,1970,D Fertility Rate,4.828
+474,1971,D Fertility Rate,4.682
+475,1972,D Fertility Rate,4.547
+476,1973,D Fertility Rate,4.421
+477,1974,D Fertility Rate,4.265
+478,1975,D Fertility Rate,4.084
+479,1976,D Fertility Rate,3.977
+480,1977,D Fertility Rate,3.852
+481,1978,D Fertility Rate,3.79
+482,1979,D Fertility Rate,3.776
+483,1980,D Fertility Rate,3.75
+484,1981,D Fertility Rate,3.716
+485,1982,D Fertility Rate,3.713
+486,1983,D Fertility Rate,3.578
+487,1984,D Fertility Rate,3.552
+488,1985,D Fertility Rate,3.515
+489,1986,D Fertility Rate,3.505
+490,1987,D Fertility Rate,3.48
+491,1988,D Fertility Rate,3.391
+492,1989,D Fertility Rate,3.346
+493,1990,D Fertility Rate,3.308
+494,1991,D Fertility Rate,3.127
+495,1992,D Fertility Rate,3.041
+496,1993,D Fertility Rate,2.976
+497,1994,D Fertility Rate,2.926
+498,1995,D Fertility Rate,2.878
+499,1996,D Fertility Rate,2.833
+500,1997,D Fertility Rate,2.794
+501,1998,D Fertility Rate,2.758
+502,1999,D Fertility Rate,2.73
+503,2000,D Fertility Rate,2.734
+504,2001,D Fertility Rate,2.7
+505,2002,D Fertility Rate,2.672
+506,2003,D Fertility Rate,2.647
+507,2004,D Fertility Rate,2.636
+508,2005,D Fertility Rate,2.619
+509,2006,D Fertility Rate,2.612
+510,2007,D Fertility Rate,2.612
+511,2008,D Fertility Rate,2.613
+512,2009,D Fertility Rate,2.605
+513,2010,D Fertility Rate,2.587
+514,2011,D Fertility Rate,2.573
+515,2012,D Fertility Rate,2.59
+516,2013,D Fertility Rate,2.56
+517,2014,D Fertility Rate,2.553
+518,2015,D Fertility Rate,2.524
+519,2016,D Fertility Rate,2.526
+520,2017,D Fertility Rate,2.504
+521,2018,D Fertility Rate,2.443
+522,2019,D Fertility Rate,2.406
+523,2020,D Fertility Rate,2.349
+524,2021,D Fertility Rate,2.321
+525,2022,D Fertility Rate,2.314
+526,2023,D Fertility Rate,2.312
+527,2024,D Fertility Rate,2.308
+528,2025,D Fertility Rate,2.303
+529,2026,D Fertility Rate,2.298
+530,2027,D Fertility Rate,2.293
+531,2028,D Fertility Rate,2.287
+532,2029,D Fertility Rate,2.281
+533,2030,D Fertility Rate,2.273
+534,2031,D Fertility Rate,2.265
+535,2032,D Fertility Rate,2.259
+536,2033,D Fertility Rate,2.25
+537,2034,D Fertility Rate,2.242
+538,2035,D Fertility Rate,2.234
+539,2036,D Fertility Rate,2.226
+540,2037,D Fertility Rate,2.221
+541,2038,D Fertility Rate,2.216
+542,2039,D Fertility Rate,2.209
+543,2040,D Fertility Rate,2.205
+544,2041,D Fertility Rate,2.201
+545,2042,D Fertility Rate,2.197
+546,2043,D Fertility Rate,2.193
+547,2044,D Fertility Rate,2.188
+548,2045,D Fertility Rate,2.183
+549,2046,D Fertility Rate,2.178
+550,2047,D Fertility Rate,2.173
+551,2048,D Fertility Rate,2.166
+552,2049,D Fertility Rate,2.157
+553,2050,D Fertility Rate,2.149
+554,2051,D Fertility Rate,2.139
+555,2052,D Fertility Rate,2.133
+556,2053,D Fertility Rate,2.122
+557,2054,D Fertility Rate,2.113
+558,2055,D Fertility Rate,2.103
+559,2056,D Fertility Rate,2.095
+560,2057,D Fertility Rate,2.086
+561,2058,D Fertility Rate,2.077
+562,2059,D Fertility Rate,2.065
+563,2060,D Fertility Rate,2.057
+564,2061,D Fertility Rate,2.049
+565,2062,D Fertility Rate,2.043
+566,2063,D Fertility Rate,2.034
+567,2064,D Fertility Rate,2.027
+568,2065,D Fertility Rate,2.017
+569,2066,D Fertility Rate,2.009
+570,2067,D Fertility Rate,2.003
+571,2068,D Fertility Rate,1.995
+572,2069,D Fertility Rate,1.988
+573,2070,D Fertility Rate,1.981
+574,2071,D Fertility Rate,1.974
+575,2072,D Fertility Rate,1.97
+576,2073,D Fertility Rate,1.964
+577,2074,D Fertility Rate,1.958
+578,2075,D Fertility Rate,1.951
+579,2076,D Fertility Rate,1.945
+580,2077,D Fertility Rate,1.938
+581,2078,D Fertility Rate,1.933
+582,2079,D Fertility Rate,1.929
+583,2080,D Fertility Rate,1.924
+584,2081,D Fertility Rate,1.919
+585,2082,D Fertility Rate,1.916
+586,2083,D Fertility Rate,1.912
+587,2084,D Fertility Rate,1.907
+588,2085,D Fertility Rate,1.901
+589,2086,D Fertility Rate,1.895
+590,2087,D Fertility Rate,1.891
+591,2088,D Fertility Rate,1.888
+592,2089,D Fertility Rate,1.882
+593,2090,D Fertility Rate,1.877
+594,2091,D Fertility Rate,1.871
+595,2092,D Fertility Rate,1.867
+596,2093,D Fertility Rate,1.862
+597,2094,D Fertility Rate,1.86
+598,2095,D Fertility Rate,1.855
+599,2096,D Fertility Rate,1.851
+600,2097,D Fertility Rate,1.846
+601,2098,D Fertility Rate,1.842
+602,2099,D Fertility Rate,1.84
+603,2100,D Fertility Rate,1.835
