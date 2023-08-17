@@ -1,0 +1,438 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/JamesFKean/RA_Summer/main/ltiv8.csv"
+    },
+    "config": {"view": {"stroke": "transparent"}},
+    "title": {
+      "text": "Number of Economically Inactive by Age Group Due to Long-Term Illness",
+      "subtitle": ["Value given in thousands","Source: Department for Work and Pensions"],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 11,
+      "fontSize": 16,
+      "anchor": "start"
+    },
+    
+    "columns": 2,
+    "concat": [
+      { "height": 200,
+      "width": 250,
+      
+        "layer": [
+          {
+            "encoding": {
+              "x": {
+                "field": "date",
+                "type": "temporal",
+                "axis": {
+                  "title": null,
+                  "labelPadding": 5,
+                  "labelFontSize": 11,
+                  "ticks": false,
+                  "grid": false,
+                  "tickCount": 5,
+                  
+                }
+              },
+              "y": {
+                "field": "16-24",
+                "type": "quantitative",
+                "axis": {
+                  "title": "16-24",
+                  "labelPadding": 5,
+                  "labelFontSize": 11,
+                  "ticks": false,
+                  "gridOpacity": 0.6,
+                  
+                }, "scale": {"domain": [100,225]}
+              },
+              "color": {
+                "type": "nominal",
+                "legend": {"orient": "top", "title": null, "legendX": -20},
+                "value": "lightblue"
+              }
+            },
+            "layer": [
+              {"mark": "line"},
+              {
+                "params": [
+                  {
+                    "name": "label",
+                    "select": {
+                      "type": "point",
+                      "encodings": ["x"],
+                      "nearest": true,
+                      "on": "mouseover"
+                    }
+                  }
+                ],
+                "mark": "point",
+                "encoding": {
+                  "opacity": {
+                    "condition": {"param": "label", "empty": false, "value": 1},
+                    "value": 0
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "transform": [{"filter": {"param": "label", "empty": false}}],
+            "layer": [
+              {
+                "mark": {"type": "rule", "color": "gray"},
+                "encoding": {
+                  "x": {"type": "temporal", "field": "date", "aggregate": "min"}
+                }
+              },
+              {
+                "encoding": {
+                  "text": {"type": "nominal", "field": "16-24"},
+                  "x": {"type": "temporal", "field": "date"},
+                  "y": {"type": "quantitative", "field": "16-24"}
+                },
+                "layer": [
+                  {
+                    "mark": {
+                      "type": "text",
+                      "stroke": "white",
+                      "strokeWidth": 2,
+                      "align": "left",
+                      "dx": -29,
+                      "dy": 15
+                    },
+                    "encoding": {
+                      "color": {
+                        "value": "lightblue"
+                      }
+                    }
+                  },
+                  {
+                    "mark": {"type": "text", "align": "left", "dx": -29,
+                      "dy": 15},
+                    "encoding": {
+                      "color": {
+                        "value": "lightblue"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {"height": 200,
+      "width": 250,
+        "layer": [
+          {
+            "encoding": {
+              "x": {
+                "field": "date",
+                "type": "temporal",
+                "axis": {
+                  "title": null,
+                  "labelPadding": 5,
+                  "labelFontSize": 11,
+                  "ticks": false,
+                  "grid": false,
+                  "tickCount": 5
+  
+                }
+              },
+              "y": {
+                "field": "25-34",
+                "type": "quantitative",
+                "axis": {
+                  "title": "25-34",
+                  "labelPadding": 5,
+                  "labelFontSize": 11,
+                  "ticks": false,
+                  "gridOpacity": 0.6 
+                }, "scale": {"domain": [150, 350]}
+              },
+              "color": {
+                "type": "nominal",
+                "legend": {"orient": "top", "title": null, "legendX": -20},
+                "value": "orange"
+              }
+            },
+            "layer": [
+              {"mark": "line"},
+              {
+                "params": [
+                  {
+                    "name": "label",
+                    "select": {
+                      "type": "point",
+                      "encodings": ["x"],
+                      "nearest": true,
+                      "on": "mouseover"
+                    }
+                  }
+                ],
+                "mark": "point",
+                "encoding": {
+                  "opacity": {
+                    "condition": {"param": "label", "empty": false, "value": 1},
+                    "value": 0
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "transform": [{"filter": {"param": "label", "empty": false}}],
+            "layer": [
+              {
+                "mark": {"type": "rule", "color": "gray"},
+                "encoding": {
+                  "x": {"type": "temporal", "field": "date", "aggregate": "min"}
+                }
+              },
+              {
+                "encoding": {
+                  "text": {"type": "nominal", "field": "25-34"},
+                  "x": {"type": "temporal", "field": "date"},
+                  "y": {"type": "quantitative", "field": "25-34"}
+                },
+                "layer": [
+                  {
+                    "mark": {
+                      "type": "text",
+                      "stroke": "white",
+                      "strokeWidth": 2,
+                      "align": "left",
+                      "dx": -29,
+                      "dy": 15
+                    },
+                    "encoding": {
+                      "color": {
+                        "value": "orange"
+                      }
+                    }
+                  },
+                  {
+                    "mark": {"type": "text", "align": "left", "dx": -29,
+                      "dy": 15},
+                    "encoding": {
+                      "color": {
+                        "value": "orange"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {"height": 200,
+      "width": 250,
+        "layer": [
+          {
+            "encoding": {
+              "x": {
+                "field": "date",
+                "type": "temporal",
+                "axis": {
+                  "title": null,
+                  "labelPadding": 5,
+                  "labelFontSize": 11,
+                  "ticks": false,
+                  "grid": false,
+                  "tickCount": 5
+                }
+              },
+              "y": {
+                "field": "35-49",
+                "type": "quantitative",
+                "axis": {
+                  "title": "35-49",
+                  "labelPadding": 5,
+                  "labelFontSize": 11,
+                  "ticks": false,
+                  "gridOpacity": 0.6
+                }, "scale": {"domain": [450, 650]}
+              },
+              "color": {
+                "type": "nominal",
+                "legend": {"orient": "top", "title": null, "legendX": -20},
+                "value": "green"
+              }
+            },
+            "layer": [
+              {"mark": "line"},
+              {
+                "params": [
+                  {
+                    "name": "label",
+                    "select": {
+                      "type": "point",
+                      "encodings": ["x"],
+                      "nearest": true,
+                      "on": "mouseover"
+                    }
+                  }
+                ],
+                "mark": "point",
+                "encoding": {
+                  "opacity": {
+                    "condition": {"param": "label", "empty": false, "value": 1},
+                    "value": 0
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "transform": [{"filter": {"param": "label", "empty": false}}],
+            "layer": [
+              {
+                "mark": {"type": "rule", "color": "gray"},
+                "encoding": {
+                  "x": {"type": "temporal", "field": "date", "aggregate": "min"}
+                }
+              },
+              {
+                "encoding": {
+                  "text": {"type": "nominal", "field": "35-49"},
+                  "x": {"type": "temporal", "field": "date"},
+                  "y": {"type": "quantitative", "field": "35-49"}
+                },
+                "layer": [
+                  {
+                    "mark": {
+                      "type": "text",
+                      "stroke": "white",
+                      "strokeWidth": 2,
+                      "align": "left",
+                      "dx": -29,
+                      "dy": 15
+                    },
+                    "encoding": {
+                      "color": {
+                        "value": "green"
+                      }
+                    }
+                  },
+                  {
+                    "mark": {"type": "text", "align": "left", "dx": -29,
+                      "dy": 15},
+                    "encoding": {
+                      "color": {
+                        "value": "green"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {"height": 200,
+      "width": 250,
+        "layer": [
+          {
+            "encoding": {
+              "x": {
+                "field": "date",
+                "type": "temporal",
+                "axis": {
+                  "title": null,
+                  "labelPadding": 5,
+                  "labelFontSize": 11,
+                  "ticks": false,
+                  "grid": false,
+                  "tickCount": 5
+                }
+              },
+              "y": {
+                "field": "50-64",
+                "type": "quantitative",
+                "axis": {
+                  "title": "50-64",
+                  "labelPadding": 5,
+                  "labelFontSize": 11,
+                  "ticks": false,
+                  "gridOpacity": 0.6
+                }, "scale": {"domain": [1050, 1350]}
+              },
+              "color": {
+                "type": "nominal",
+                "legend": {"orient": "top", "title": null, "legendX": -20},
+                "value": "darkred"
+              }
+            },
+            "layer": [
+              {"mark": "line"},
+              {
+                "params": [
+                  {
+                    "name": "label",
+                    "select": {
+                      "type": "point",
+                      "encodings": ["x"],
+                      "nearest": true,
+                      "on": "mouseover"
+                    }
+                  }
+                ],
+                "mark": "point",
+                "encoding": {
+                  "opacity": {
+                    "condition": {"param": "label", "empty": false, "value": 1},
+                    "value": 0
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "transform": [{"filter": {"param": "label", "empty": false}}],
+            "layer": [
+              {
+                "mark": {"type": "rule", "color": "gray"},
+                "encoding": {
+                  "x": {"type": "temporal", "field": "date", "aggregate": "min"}
+                }
+              },
+              {
+                "encoding": {
+                  "text": {"type": "nominal", "field": "50-64"},
+                  "x": {"type": "temporal", "field": "date"},
+                  "y": {"type": "quantitative", "field": "50-64"}
+                },
+                "layer": [
+                  {
+                    "mark": {
+                      "type": "text",
+                      "stroke": "white",
+                      "strokeWidth": 2,
+                      "align": "left",
+                      "dx": -29,
+                      "dy": 15
+                    },
+                    "encoding": {
+                      "color": {
+                        "value": "darkred"
+                      }
+                    }
+                  },
+                  {
+                    "mark": {"type": "text", "align": "left", "dx": -29, "dy": 15},
+                    "encoding": {
+                      "color": {
+                        "value": "darkred"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
