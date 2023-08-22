@@ -1,0 +1,217 @@
+,Date,pct_values,pct,Denom,Location,Inactive
+0, 2004,% of economically inactive student,0.20800000000000002,115900,Glasgow,24107
+1, 2004,% of economically inactive looking after family/home,0.201,115900,Glasgow,23296
+2, 2004,% of economically inactive temporary sick,0.023,115900,Glasgow,2666
+3, 2004,% of economically inactive long-term sick,0.39299999999999996,115900,Glasgow,45549
+4, 2004,% of economically inactive retired,0.099,115900,Glasgow,11474
+5, 2004,% of economically inactive other,0.077,115900,Glasgow,8924
+6, 2005,% of economically inactive student,0.245,122800,Glasgow,30086
+7, 2005,% of economically inactive looking after family/home,0.184,122800,Glasgow,22595
+8, 2005,% of economically inactive temporary sick,0.022000000000000002,122800,Glasgow,2702
+9, 2005,% of economically inactive long-term sick,0.361,122800,Glasgow,44331
+10, 2005,% of economically inactive retired,0.09,122800,Glasgow,11052
+11, 2005,% of economically inactive other,0.092,122800,Glasgow,11298
+12, 2006,% of economically inactive student,0.22899999999999998,113000,Glasgow,25877
+13, 2006,% of economically inactive looking after family/home,0.19699999999999998,113000,Glasgow,22261
+14, 2006,% of economically inactive temporary sick,0.031,113000,Glasgow,3503
+15, 2006,% of economically inactive long-term sick,0.382,113000,Glasgow,43166
+16, 2006,% of economically inactive retired,0.095,113000,Glasgow,10735
+17, 2006,% of economically inactive other,0.066,113000,Glasgow,7458
+18, 2007,% of economically inactive student,0.27699999999999997,114500,Glasgow,31716
+19, 2007,% of economically inactive looking after family/home,0.177,114500,Glasgow,20266
+20, 2007,% of economically inactive temporary sick,0.028999999999999998,114500,Glasgow,3320
+21, 2007,% of economically inactive long-term sick,0.35,114500,Glasgow,40075
+22, 2007,% of economically inactive retired,0.086,114500,Glasgow,9847
+23, 2007,% of economically inactive other,0.075,114500,Glasgow,8588
+24, 2008,% of economically inactive student,0.303,116200,Glasgow,35209
+25, 2008,% of economically inactive looking after family/home,0.19399999999999998,116200,Glasgow,22543
+26, 2008,% of economically inactive temporary sick,0.025,116200,Glasgow,2905
+27, 2008,% of economically inactive long-term sick,0.324,116200,Glasgow,37649
+28, 2008,% of economically inactive retired,0.092,116200,Glasgow,10690
+29, 2008,% of economically inactive other,0.059000000000000004,116200,Glasgow,6856
+30, 2009,% of economically inactive student,0.287,127300,Glasgow,36535
+31, 2009,% of economically inactive looking after family/home,0.204,127300,Glasgow,25969
+32, 2009,% of economically inactive temporary sick,0.013000000000000001,127300,Glasgow,1655
+33, 2009,% of economically inactive long-term sick,0.36200000000000004,127300,Glasgow,46083
+34, 2009,% of economically inactive retired,0.08800000000000001,127300,Glasgow,11202
+35, 2009,% of economically inactive other,0.044000000000000004,127300,Glasgow,5601
+36, 2010,% of economically inactive student,0.29100000000000004,117200,Glasgow,34105
+37, 2010,% of economically inactive looking after family/home,0.182,117200,Glasgow,21330
+38, 2010,% of economically inactive temporary sick,0.017,117200,Glasgow,1992
+39, 2010,% of economically inactive long-term sick,0.349,117200,Glasgow,40903
+40, 2010,% of economically inactive retired,0.09699999999999999,117200,Glasgow,11368
+41, 2010,% of economically inactive other,0.057,117200,Glasgow,6680
+42, 2011,% of economically inactive student,0.312,122400,Glasgow,38189
+43, 2011,% of economically inactive looking after family/home,0.17,122400,Glasgow,20808
+44, 2011,% of economically inactive temporary sick,0.02,122400,Glasgow,2448
+45, 2011,% of economically inactive long-term sick,0.33,122400,Glasgow,40392
+46, 2011,% of economically inactive retired,0.081,122400,Glasgow,9914
+47, 2011,% of economically inactive other,0.079,122400,Glasgow,9670
+48, 2012,% of economically inactive student,0.342,138100,Glasgow,47230
+49, 2012,% of economically inactive looking after family/home,0.168,138100,Glasgow,23201
+50, 2012,% of economically inactive temporary sick,0.019,138100,Glasgow,2624
+51, 2012,% of economically inactive long-term sick,0.326,138100,Glasgow,45021
+52, 2012,% of economically inactive retired,0.076,138100,Glasgow,10496
+53, 2012,% of economically inactive other,0.053,138100,Glasgow,7319
+54, 2013,% of economically inactive student,0.317,114700,Glasgow,36360
+55, 2013,% of economically inactive looking after family/home,0.17,114700,Glasgow,19499
+56, 2013,% of economically inactive temporary sick,0.032,114700,Glasgow,3670
+57, 2013,% of economically inactive long-term sick,0.32,114700,Glasgow,36704
+58, 2013,% of economically inactive retired,0.08199999999999999,114700,Glasgow,9405
+59, 2013,% of economically inactive other,0.079,114700,Glasgow,9061
+60, 2014,% of economically inactive student,0.29100000000000004,108900,Glasgow,31690
+61, 2014,% of economically inactive looking after family/home,0.217,108900,Glasgow,23631
+62, 2014,% of economically inactive temporary sick,0.040999999999999995,108900,Glasgow,4465
+63, 2014,% of economically inactive long-term sick,0.298,108900,Glasgow,32452
+64, 2014,% of economically inactive retired,0.086,108900,Glasgow,9365
+65, 2014,% of economically inactive other,0.067,108900,Glasgow,7296
+66, 2015,% of economically inactive student,0.319,127000,Glasgow,40513
+67, 2015,% of economically inactive looking after family/home,0.184,127000,Glasgow,23368
+68, 2015,% of economically inactive temporary sick,0.027000000000000003,127000,Glasgow,3429
+69, 2015,% of economically inactive long-term sick,0.313,127000,Glasgow,39751
+70, 2015,% of economically inactive retired,0.054000000000000006,127000,Glasgow,6858
+71, 2015,% of economically inactive other,0.096,127000,Glasgow,12192
+72, 2016,% of economically inactive student,0.35,130500,Glasgow,45675
+73, 2016,% of economically inactive looking after family/home,0.16899999999999998,130500,Glasgow,22054
+74, 2016,% of economically inactive temporary sick,0.01,130500,Glasgow,1305
+75, 2016,% of economically inactive long-term sick,0.289,130500,Glasgow,37714
+76, 2016,% of economically inactive retired,0.076,130500,Glasgow,9918
+77, 2016,% of economically inactive other,0.102,130500,Glasgow,13311
+78, 2017,% of economically inactive student,0.379,128500,Glasgow,48702
+79, 2017,% of economically inactive looking after family/home,0.17600000000000002,128500,Glasgow,22616
+80, 2017,% of economically inactive temporary sick,0.042,128500,Glasgow,5397
+81, 2017,% of economically inactive long-term sick,0.259,128500,Glasgow,33282
+82, 2017,% of economically inactive retired,0.059000000000000004,128500,Glasgow,7582
+83, 2017,% of economically inactive other,0.081,128500,Glasgow,10408
+84, 2018,% of economically inactive student,0.318,121900,Glasgow,38764
+85, 2018,% of economically inactive looking after family/home,0.214,121900,Glasgow,26087
+86, 2018,% of economically inactive temporary sick,0.01,121900,Glasgow,1219
+87, 2018,% of economically inactive long-term sick,0.26899999999999996,121900,Glasgow,32791
+88, 2018,% of economically inactive retired,0.085,121900,Glasgow,10362
+89, 2018,% of economically inactive other,0.091,121900,Glasgow,11093
+90, 2019,% of economically inactive student,0.331,127900,Glasgow,42335
+91, 2019,% of economically inactive looking after family/home,0.132,127900,Glasgow,16883
+92, 2019,% of economically inactive temporary sick,0.017,127900,Glasgow,2174
+93, 2019,% of economically inactive long-term sick,0.28300000000000003,127900,Glasgow,36196
+94, 2019,% of economically inactive retired,0.09699999999999999,127900,Glasgow,12406
+95, 2019,% of economically inactive other,0.131,127900,Glasgow,16755
+96, 2020,% of economically inactive student,0.335,117000,Glasgow,39195
+97, 2020,% of economically inactive looking after family/home,0.198,117000,Glasgow,23166
+98, 2020,% of economically inactive temporary sick,0.024,117000,Glasgow,2808
+99, 2020,% of economically inactive long-term sick,0.319,117000,Glasgow,37323
+100, 2020,% of economically inactive retired,0.064,117000,Glasgow,7488
+101, 2020,% of economically inactive other,0.063,117000,Glasgow,7371
+102, 2021,% of economically inactive student,0.29100000000000004,110400,Glasgow,32126
+103, 2021,% of economically inactive looking after family/home,0.205,110400,Glasgow,22632
+104, 2021,% of economically inactive temporary sick,0.028999999999999998,110400,Glasgow,3202
+105, 2021,% of economically inactive long-term sick,0.306,110400,Glasgow,33782
+106, 2021,% of economically inactive retired,0.053,110400,Glasgow,5851
+107, 2021,% of economically inactive other,0.11599999999999999,110400,Glasgow,12806
+0, 2004,% of economically inactive student,0.159,14000,Inverclyde,2226
+1, 2004,% of economically inactive looking after family/home,0.182,14000,Inverclyde,2548
+2, 2004,% of economically inactive temporary sick,0.02,14000,Inverclyde,280
+3, 2004,% of economically inactive long-term sick,0.387,14000,Inverclyde,5418
+4, 2004,% of economically inactive retired,0.14400000000000002,14000,Inverclyde,2016
+5, 2004,% of economically inactive other,0.08800000000000001,14000,Inverclyde,1232
+6, 2005,% of economically inactive student,0.153,12900,Inverclyde,1974
+7, 2005,% of economically inactive looking after family/home,0.18600000000000003,12900,Inverclyde,2399
+8, 2005,% of economically inactive temporary sick,0.027999999999999997,12900,Inverclyde,361
+9, 2005,% of economically inactive long-term sick,0.39399999999999996,12900,Inverclyde,5083
+10, 2005,% of economically inactive retired,0.16699999999999998,12900,Inverclyde,2154
+11, 2005,% of economically inactive other,0.061,12900,Inverclyde,787
+12, 2006,% of economically inactive student,0.151,13200,Inverclyde,1993
+13, 2006,% of economically inactive looking after family/home,0.163,13200,Inverclyde,2152
+14, 2006,% of economically inactive temporary sick,0.045,13200,Inverclyde,594
+15, 2006,% of economically inactive long-term sick,0.425,13200,Inverclyde,5610
+16, 2006,% of economically inactive retired,0.126,13200,Inverclyde,1663
+17, 2006,% of economically inactive other,0.075,13200,Inverclyde,990
+18, 2007,% of economically inactive student,0.151,13000,Inverclyde,1963
+19, 2007,% of economically inactive looking after family/home,0.165,13000,Inverclyde,2145
+20, 2007,% of economically inactive temporary sick,0.018000000000000002,13000,Inverclyde,234
+21, 2007,% of economically inactive long-term sick,0.451,13000,Inverclyde,5863
+22, 2007,% of economically inactive retired,0.147,13000,Inverclyde,1911
+23, 2007,% of economically inactive other,0.065,13000,Inverclyde,845
+24, 2008,% of economically inactive student,0.18899999999999997,14300,Inverclyde,2703
+25, 2008,% of economically inactive looking after family/home,0.193,14300,Inverclyde,2760
+26, 2008,% of economically inactive temporary sick,0.049,14300,Inverclyde,701
+27, 2008,% of economically inactive long-term sick,0.37,14300,Inverclyde,5291
+28, 2008,% of economically inactive retired,0.15,14300,Inverclyde,2145
+29, 2008,% of economically inactive other,0.046,14300,Inverclyde,658
+30, 2009,% of economically inactive student,0.174,11800,Inverclyde,2053
+31, 2009,% of economically inactive looking after family/home,0.209,11800,Inverclyde,2466
+32, 2009,% of economically inactive temporary sick,0.018000000000000002,11800,Inverclyde,212
+33, 2009,% of economically inactive long-term sick,0.415,11800,Inverclyde,4897
+34, 2009,% of economically inactive retired,0.125,11800,Inverclyde,1475
+35, 2009,% of economically inactive other,0.049,11800,Inverclyde,578
+36, 2010,% of economically inactive student,0.17800000000000002,12000,Inverclyde,2136
+37, 2010,% of economically inactive looking after family/home,0.17600000000000002,12000,Inverclyde,2112
+38, 2010,% of economically inactive temporary sick,0.03,12000,Inverclyde,360
+39, 2010,% of economically inactive long-term sick,0.42200000000000004,12000,Inverclyde,5064
+40, 2010,% of economically inactive retired,0.17300000000000001,12000,Inverclyde,2076
+41, 2010,% of economically inactive other,0.034,12000,Inverclyde,408
+42, 2011,% of economically inactive student,0.228,11900,Inverclyde,2713
+43, 2011,% of economically inactive looking after family/home,0.149,11900,Inverclyde,1773
+44, 2011,% of economically inactive temporary sick,0.023,11900,Inverclyde,274
+45, 2011,% of economically inactive long-term sick,0.42200000000000004,11900,Inverclyde,5022
+46, 2011,% of economically inactive retired,0.133,11900,Inverclyde,1583
+47, 2011,% of economically inactive other,0.03,11900,Inverclyde,357
+48, 2012,% of economically inactive student,0.16,13300,Inverclyde,2128
+49, 2012,% of economically inactive looking after family/home,0.19699999999999998,13300,Inverclyde,2620
+50, 2012,% of economically inactive temporary sick,0.04,13300,Inverclyde,532
+51, 2012,% of economically inactive long-term sick,0.384,13300,Inverclyde,5107
+52, 2012,% of economically inactive retired,0.152,13300,Inverclyde,2022
+53, 2012,% of economically inactive other,0.055,13300,Inverclyde,732
+54, 2013,% of economically inactive student,0.196,13000,Inverclyde,2548
+55, 2013,% of economically inactive looking after family/home,0.203,13000,Inverclyde,2639
+56, 2013,% of economically inactive temporary sick,0.027000000000000003,13000,Inverclyde,351
+57, 2013,% of economically inactive long-term sick,0.32899999999999996,13000,Inverclyde,4277
+58, 2013,% of economically inactive retired,0.179,13000,Inverclyde,2327
+59, 2013,% of economically inactive other,0.063,13000,Inverclyde,819
+60, 2014,% of economically inactive student,0.207,13200,Inverclyde,2732
+61, 2014,% of economically inactive looking after family/home,0.16699999999999998,13200,Inverclyde,2204
+62, 2014,% of economically inactive temporary sick,0.038,13200,Inverclyde,502
+63, 2014,% of economically inactive long-term sick,0.37,13200,Inverclyde,4884
+64, 2014,% of economically inactive retired,0.177,13200,Inverclyde,2336
+65, 2014,% of economically inactive other,0.032,13200,Inverclyde,422
+66, 2015,% of economically inactive student,0.18100000000000002,12400,Inverclyde,2244
+67, 2015,% of economically inactive looking after family/home,0.16699999999999998,12400,Inverclyde,2071
+68, 2015,% of economically inactive temporary sick,0.03,12400,Inverclyde,372
+69, 2015,% of economically inactive long-term sick,0.39299999999999996,12400,Inverclyde,4873
+70, 2015,% of economically inactive retired,0.14800000000000002,12400,Inverclyde,1835
+71, 2015,% of economically inactive other,0.08199999999999999,12400,Inverclyde,1017
+72, 2016,% of economically inactive student,0.209,10900,Inverclyde,2278
+73, 2016,% of economically inactive looking after family/home,0.165,10900,Inverclyde,1798
+74, 2016,% of economically inactive temporary sick,0.02,10900,Inverclyde,218
+75, 2016,% of economically inactive long-term sick,0.439,10900,Inverclyde,4785
+76, 2016,% of economically inactive retired,0.09300000000000001,10900,Inverclyde,1014
+77, 2016,% of economically inactive other,0.068,10900,Inverclyde,741
+78, 2017,% of economically inactive student,0.21600000000000003,11800,Inverclyde,2549
+79, 2017,% of economically inactive looking after family/home,0.153,11800,Inverclyde,1805
+80, 2017,% of economically inactive temporary sick,0.018000000000000002,11800,Inverclyde,212
+81, 2017,% of economically inactive long-term sick,0.433,11800,Inverclyde,5109
+82, 2017,% of economically inactive retired,0.115,11800,Inverclyde,1357
+83, 2017,% of economically inactive other,0.064,11800,Inverclyde,755
+84, 2018,% of economically inactive student,0.192,11900,Inverclyde,2285
+85, 2018,% of economically inactive looking after family/home,0.172,11900,Inverclyde,2047
+86, 2018,% of economically inactive temporary sick,0.03,11900,Inverclyde,357
+87, 2018,% of economically inactive long-term sick,0.435,11900,Inverclyde,5176
+88, 2018,% of economically inactive retired,0.13,11900,Inverclyde,1547
+89, 2018,% of economically inactive other,0.059000000000000004,11900,Inverclyde,702
+90, 2019,% of economically inactive student,0.161,14000,Inverclyde,2254
+91, 2019,% of economically inactive looking after family/home,0.145,14000,Inverclyde,2030
+92, 2019,% of economically inactive temporary sick,0.033,14000,Inverclyde,462
+93, 2019,% of economically inactive long-term sick,0.38299999999999995,14000,Inverclyde,5362
+94, 2019,% of economically inactive retired,0.162,14000,Inverclyde,2268
+95, 2019,% of economically inactive other,0.08,14000,Inverclyde,1120
+96, 2020,% of economically inactive student,0.19699999999999998,10900,Inverclyde,2147
+97, 2020,% of economically inactive looking after family/home,0.07400000000000001,10900,Inverclyde,807
+98, 2020,% of economically inactive temporary sick,0.03,10900,Inverclyde,327
+99, 2020,% of economically inactive long-term sick,0.433,10900,Inverclyde,4720
+100, 2020,% of economically inactive retired,0.16399999999999998,10900,Inverclyde,1788
+101, 2020,% of economically inactive other,0.08900000000000001,10900,Inverclyde,970
+102, 2021,% of economically inactive student,0.28,10000,Inverclyde,2800
+103, 2021,% of economically inactive looking after family/home,0.062,10000,Inverclyde,620
+104, 2021,% of economically inactive temporary sick,0.03,10000,Inverclyde,300
+105, 2021,% of economically inactive long-term sick,0.429,10000,Inverclyde,4290
+106, 2021,% of economically inactive retired,0.126,10000,Inverclyde,1260
+107, 2021,% of economically inactive other,0.096,10000,Inverclyde,960
