@@ -1,0 +1,371 @@
+,DATE2,MEASURES_NAME,Group,obvs,id,type
+1,2004-12,Number of Inactive,Male temporary illness,9600,2004-12 temp,Male inactivity due to illness
+5,2004-12,Number of Inactive,Male long-term illness,123500,2004-12 long-term,Male inactivity due to illness
+21,2005-03,Number of Inactive,Male temporary illness,8400,2005-03 temp,Male inactivity due to illness
+25,2005-03,Number of Inactive,Male long-term illness,123300,2005-03 long-term,Male inactivity due to illness
+41,2005-06,Number of Inactive,Male temporary illness,8000,2005-06 temp,Male inactivity due to illness
+45,2005-06,Number of Inactive,Male long-term illness,127700,2005-06 long-term,Male inactivity due to illness
+61,2005-09,Number of Inactive,Male temporary illness,7400,2005-09 temp,Male inactivity due to illness
+65,2005-09,Number of Inactive,Male long-term illness,126600,2005-09 long-term,Male inactivity due to illness
+81,2005-12,Number of Inactive,Male temporary illness,7600,2005-12 temp,Male inactivity due to illness
+85,2005-12,Number of Inactive,Male long-term illness,126800,2005-12 long-term,Male inactivity due to illness
+101,2006-03,Number of Inactive,Male temporary illness,7500,2006-03 temp,Male inactivity due to illness
+105,2006-03,Number of Inactive,Male long-term illness,127700,2006-03 long-term,Male inactivity due to illness
+121,2006-06,Number of Inactive,Male temporary illness,8700,2006-06 temp,Male inactivity due to illness
+125,2006-06,Number of Inactive,Male long-term illness,122300,2006-06 long-term,Male inactivity due to illness
+141,2006-09,Number of Inactive,Male temporary illness,8500,2006-09 temp,Male inactivity due to illness
+145,2006-09,Number of Inactive,Male long-term illness,123000,2006-09 long-term,Male inactivity due to illness
+161,2006-12,Number of Inactive,Male temporary illness,7800,2006-12 temp,Male inactivity due to illness
+165,2006-12,Number of Inactive,Male long-term illness,116200,2006-12 long-term,Male inactivity due to illness
+181,2007-03,Number of Inactive,Male temporary illness,7900,2007-03 temp,Male inactivity due to illness
+185,2007-03,Number of Inactive,Male long-term illness,115100,2007-03 long-term,Male inactivity due to illness
+201,2007-06,Number of Inactive,Male temporary illness,6500,2007-06 temp,Male inactivity due to illness
+205,2007-06,Number of Inactive,Male long-term illness,115700,2007-06 long-term,Male inactivity due to illness
+221,2007-09,Number of Inactive,Male temporary illness,7200,2007-09 temp,Male inactivity due to illness
+225,2007-09,Number of Inactive,Male long-term illness,110900,2007-09 long-term,Male inactivity due to illness
+241,2007-12,Number of Inactive,Male temporary illness,8300,2007-12 temp,Male inactivity due to illness
+245,2007-12,Number of Inactive,Male long-term illness,115400,2007-12 long-term,Male inactivity due to illness
+261,2008-03,Number of Inactive,Male temporary illness,8600,2008-03 temp,Male inactivity due to illness
+265,2008-03,Number of Inactive,Male long-term illness,112300,2008-03 long-term,Male inactivity due to illness
+281,2008-06,Number of Inactive,Male temporary illness,8400,2008-06 temp,Male inactivity due to illness
+285,2008-06,Number of Inactive,Male long-term illness,112700,2008-06 long-term,Male inactivity due to illness
+301,2008-09,Number of Inactive,Male temporary illness,7500,2008-09 temp,Male inactivity due to illness
+305,2008-09,Number of Inactive,Male long-term illness,110800,2008-09 long-term,Male inactivity due to illness
+321,2008-12,Number of Inactive,Male temporary illness,7900,2008-12 temp,Male inactivity due to illness
+325,2008-12,Number of Inactive,Male long-term illness,113600,2008-12 long-term,Male inactivity due to illness
+341,2009-03,Number of Inactive,Male temporary illness,8000,2009-03 temp,Male inactivity due to illness
+345,2009-03,Number of Inactive,Male long-term illness,117300,2009-03 long-term,Male inactivity due to illness
+361,2009-06,Number of Inactive,Male temporary illness,10000,2009-06 temp,Male inactivity due to illness
+365,2009-06,Number of Inactive,Male long-term illness,114200,2009-06 long-term,Male inactivity due to illness
+381,2009-09,Number of Inactive,Male temporary illness,10800,2009-09 temp,Male inactivity due to illness
+385,2009-09,Number of Inactive,Male long-term illness,113600,2009-09 long-term,Male inactivity due to illness
+401,2009-12,Number of Inactive,Male temporary illness,9400,2009-12 temp,Male inactivity due to illness
+405,2009-12,Number of Inactive,Male long-term illness,114000,2009-12 long-term,Male inactivity due to illness
+421,2010-03,Number of Inactive,Male temporary illness,8600,2010-03 temp,Male inactivity due to illness
+425,2010-03,Number of Inactive,Male long-term illness,114800,2010-03 long-term,Male inactivity due to illness
+441,2010-06,Number of Inactive,Male temporary illness,7200,2010-06 temp,Male inactivity due to illness
+445,2010-06,Number of Inactive,Male long-term illness,115900,2010-06 long-term,Male inactivity due to illness
+461,2010-09,Number of Inactive,Male temporary illness,6800,2010-09 temp,Male inactivity due to illness
+465,2010-09,Number of Inactive,Male long-term illness,116100,2010-09 long-term,Male inactivity due to illness
+481,2010-12,Number of Inactive,Male temporary illness,6000,2010-12 temp,Male inactivity due to illness
+485,2010-12,Number of Inactive,Male long-term illness,114700,2010-12 long-term,Male inactivity due to illness
+501,2011-03,Number of Inactive,Male temporary illness,7100,2011-03 temp,Male inactivity due to illness
+505,2011-03,Number of Inactive,Male long-term illness,116500,2011-03 long-term,Male inactivity due to illness
+521,2011-06,Number of Inactive,Male temporary illness,7400,2011-06 temp,Male inactivity due to illness
+525,2011-06,Number of Inactive,Male long-term illness,118100,2011-06 long-term,Male inactivity due to illness
+541,2011-09,Number of Inactive,Male temporary illness,7500,2011-09 temp,Male inactivity due to illness
+545,2011-09,Number of Inactive,Male long-term illness,120400,2011-09 long-term,Male inactivity due to illness
+561,2011-12,Number of Inactive,Male temporary illness,8600,2011-12 temp,Male inactivity due to illness
+565,2011-12,Number of Inactive,Male long-term illness,117800,2011-12 long-term,Male inactivity due to illness
+581,2012-03,Number of Inactive,Male temporary illness,9200,2012-03 temp,Male inactivity due to illness
+585,2012-03,Number of Inactive,Male long-term illness,114700,2012-03 long-term,Male inactivity due to illness
+601,2012-06,Number of Inactive,Male temporary illness,7800,2012-06 temp,Male inactivity due to illness
+605,2012-06,Number of Inactive,Male long-term illness,110000,2012-06 long-term,Male inactivity due to illness
+621,2012-09,Number of Inactive,Male temporary illness,9300,2012-09 temp,Male inactivity due to illness
+625,2012-09,Number of Inactive,Male long-term illness,106900,2012-09 long-term,Male inactivity due to illness
+641,2012-12,Number of Inactive,Male temporary illness,9500,2012-12 temp,Male inactivity due to illness
+645,2012-12,Number of Inactive,Male long-term illness,108300,2012-12 long-term,Male inactivity due to illness
+661,2013-03,Number of Inactive,Male temporary illness,8600,2013-03 temp,Male inactivity due to illness
+665,2013-03,Number of Inactive,Male long-term illness,113100,2013-03 long-term,Male inactivity due to illness
+681,2013-06,Number of Inactive,Male temporary illness,8800,2013-06 temp,Male inactivity due to illness
+685,2013-06,Number of Inactive,Male long-term illness,113000,2013-06 long-term,Male inactivity due to illness
+701,2013-09,Number of Inactive,Male temporary illness,10000,2013-09 temp,Male inactivity due to illness
+705,2013-09,Number of Inactive,Male long-term illness,114400,2013-09 long-term,Male inactivity due to illness
+721,2013-12,Number of Inactive,Male temporary illness,10400,2013-12 temp,Male inactivity due to illness
+725,2013-12,Number of Inactive,Male long-term illness,112700,2013-12 long-term,Male inactivity due to illness
+741,2014-03,Number of Inactive,Male temporary illness,10000,2014-03 temp,Male inactivity due to illness
+745,2014-03,Number of Inactive,Male long-term illness,110800,2014-03 long-term,Male inactivity due to illness
+761,2014-06,Number of Inactive,Male temporary illness,10000,2014-06 temp,Male inactivity due to illness
+765,2014-06,Number of Inactive,Male long-term illness,109300,2014-06 long-term,Male inactivity due to illness
+781,2014-09,Number of Inactive,Male temporary illness,8800,2014-09 temp,Male inactivity due to illness
+785,2014-09,Number of Inactive,Male long-term illness,108300,2014-09 long-term,Male inactivity due to illness
+801,2014-12,Number of Inactive,Male temporary illness,8800,2014-12 temp,Male inactivity due to illness
+805,2014-12,Number of Inactive,Male long-term illness,104400,2014-12 long-term,Male inactivity due to illness
+821,2015-03,Number of Inactive,Male temporary illness,8200,2015-03 temp,Male inactivity due to illness
+825,2015-03,Number of Inactive,Male long-term illness,96100,2015-03 long-term,Male inactivity due to illness
+841,2015-06,Number of Inactive,Male temporary illness,10200,2015-06 temp,Male inactivity due to illness
+845,2015-06,Number of Inactive,Male long-term illness,98100,2015-06 long-term,Male inactivity due to illness
+861,2015-09,Number of Inactive,Male temporary illness,10000,2015-09 temp,Male inactivity due to illness
+865,2015-09,Number of Inactive,Male long-term illness,93900,2015-09 long-term,Male inactivity due to illness
+881,2015-12,Number of Inactive,Male temporary illness,9800,2015-12 temp,Male inactivity due to illness
+885,2015-12,Number of Inactive,Male long-term illness,98600,2015-12 long-term,Male inactivity due to illness
+901,2016-03,Number of Inactive,Male temporary illness,11600,2016-03 temp,Male inactivity due to illness
+905,2016-03,Number of Inactive,Male long-term illness,102100,2016-03 long-term,Male inactivity due to illness
+921,2016-06,Number of Inactive,Male temporary illness,9100,2016-06 temp,Male inactivity due to illness
+925,2016-06,Number of Inactive,Male long-term illness,103800,2016-06 long-term,Male inactivity due to illness
+941,2016-09,Number of Inactive,Male temporary illness,10600,2016-09 temp,Male inactivity due to illness
+945,2016-09,Number of Inactive,Male long-term illness,102100,2016-09 long-term,Male inactivity due to illness
+961,2016-12,Number of Inactive,Male temporary illness,12100,2016-12 temp,Male inactivity due to illness
+965,2016-12,Number of Inactive,Male long-term illness,105800,2016-12 long-term,Male inactivity due to illness
+981,2017-03,Number of Inactive,Male temporary illness,11200,2017-03 temp,Male inactivity due to illness
+985,2017-03,Number of Inactive,Male long-term illness,108800,2017-03 long-term,Male inactivity due to illness
+1001,2017-06,Number of Inactive,Male temporary illness,12200,2017-06 temp,Male inactivity due to illness
+1005,2017-06,Number of Inactive,Male long-term illness,107100,2017-06 long-term,Male inactivity due to illness
+1021,2017-09,Number of Inactive,Male temporary illness,9700,2017-09 temp,Male inactivity due to illness
+1025,2017-09,Number of Inactive,Male long-term illness,109400,2017-09 long-term,Male inactivity due to illness
+1041,2017-12,Number of Inactive,Male temporary illness,10200,2017-12 temp,Male inactivity due to illness
+1045,2017-12,Number of Inactive,Male long-term illness,103400,2017-12 long-term,Male inactivity due to illness
+1061,2018-03,Number of Inactive,Male temporary illness,11300,2018-03 temp,Male inactivity due to illness
+1065,2018-03,Number of Inactive,Male long-term illness,98500,2018-03 long-term,Male inactivity due to illness
+1081,2018-06,Number of Inactive,Male temporary illness,10700,2018-06 temp,Male inactivity due to illness
+1085,2018-06,Number of Inactive,Male long-term illness,98400,2018-06 long-term,Male inactivity due to illness
+1101,2018-09,Number of Inactive,Male temporary illness,11000,2018-09 temp,Male inactivity due to illness
+1105,2018-09,Number of Inactive,Male long-term illness,98700,2018-09 long-term,Male inactivity due to illness
+1121,2018-12,Number of Inactive,Male temporary illness,7800,2018-12 temp,Male inactivity due to illness
+1125,2018-12,Number of Inactive,Male long-term illness,102800,2018-12 long-term,Male inactivity due to illness
+1141,2019-03,Number of Inactive,Male temporary illness,7500,2019-03 temp,Male inactivity due to illness
+1145,2019-03,Number of Inactive,Male long-term illness,104800,2019-03 long-term,Male inactivity due to illness
+1161,2019-06,Number of Inactive,Male temporary illness,7900,2019-06 temp,Male inactivity due to illness
+1165,2019-06,Number of Inactive,Male long-term illness,108800,2019-06 long-term,Male inactivity due to illness
+1181,2019-09,Number of Inactive,Male temporary illness,6000,2019-09 temp,Male inactivity due to illness
+1185,2019-09,Number of Inactive,Male long-term illness,109300,2019-09 long-term,Male inactivity due to illness
+1201,2019-12,Number of Inactive,Male temporary illness,7600,2019-12 temp,Male inactivity due to illness
+1205,2019-12,Number of Inactive,Male long-term illness,110500,2019-12 long-term,Male inactivity due to illness
+1221,2020-03,Number of Inactive,Male temporary illness,7600,2020-03 temp,Male inactivity due to illness
+1225,2020-03,Number of Inactive,Male long-term illness,112600,2020-03 long-term,Male inactivity due to illness
+1241,2020-06,Number of Inactive,Male temporary illness,6800,2020-06 temp,Male inactivity due to illness
+1245,2020-06,Number of Inactive,Male long-term illness,111000,2020-06 long-term,Male inactivity due to illness
+1261,2020-09,Number of Inactive,Male temporary illness,7900,2020-09 temp,Male inactivity due to illness
+1265,2020-09,Number of Inactive,Male long-term illness,111800,2020-09 long-term,Male inactivity due to illness
+1281,2020-12,Number of Inactive,Male temporary illness,7800,2020-12 temp,Male inactivity due to illness
+1285,2020-12,Number of Inactive,Male long-term illness,113600,2020-12 long-term,Male inactivity due to illness
+1301,2021-03,Number of Inactive,Male temporary illness,8000,2021-03 temp,Male inactivity due to illness
+1305,2021-03,Number of Inactive,Male long-term illness,113800,2021-03 long-term,Male inactivity due to illness
+1321,2021-06,Number of Inactive,Male temporary illness,9100,2021-06 temp,Male inactivity due to illness
+1325,2021-06,Number of Inactive,Male long-term illness,119200,2021-06 long-term,Male inactivity due to illness
+1341,2021-09,Number of Inactive,Male temporary illness,10000,2021-09 temp,Male inactivity due to illness
+1345,2021-09,Number of Inactive,Male long-term illness,116600,2021-09 long-term,Male inactivity due to illness
+1361,2021-12,Number of Inactive,Male temporary illness,10000,2021-12 temp,Male inactivity due to illness
+1365,2021-12,Number of Inactive,Male long-term illness,115700,2021-12 long-term,Male inactivity due to illness
+1381,2022-03,Number of Inactive,Male temporary illness,12700,2022-03 temp,Male inactivity due to illness
+1385,2022-03,Number of Inactive,Male long-term illness,116300,2022-03 long-term,Male inactivity due to illness
+1401,2022-06,Number of Inactive,Male temporary illness,15100,2022-06 temp,Male inactivity due to illness
+1405,2022-06,Number of Inactive,Male long-term illness,117200,2022-06 long-term,Male inactivity due to illness
+1421,2022-09,Number of Inactive,Male temporary illness,14900,2022-09 temp,Male inactivity due to illness
+1425,2022-09,Number of Inactive,Male long-term illness,123500,2022-09 long-term,Male inactivity due to illness
+1441,2022-12,Number of Inactive,Male temporary illness,14800,2022-12 temp,Male inactivity due to illness
+1445,2022-12,Number of Inactive,Male long-term illness,125900,2022-12 long-term,Male inactivity due to illness
+1461,2023-03,Number of Inactive,Male temporary illness,13000,2023-03 temp,Male inactivity due to illness
+1465,2023-03,Number of Inactive,Male long-term illness,122600,2023-03 long-term,Male inactivity due to illness
+9,2004-12,Number of Inactive,Female temporary illness,10900,2004-12 temp,Female inactivity due to illness
+13,2004-12,Number of Inactive,Female long-term illness,129200,2004-12 long-term,Female inactivity due to illness
+29,2005-03,Number of Inactive,Female temporary illness,11000,2005-03 temp,Female inactivity due to illness
+33,2005-03,Number of Inactive,Female long-term illness,127900,2005-03 long-term,Female inactivity due to illness
+49,2005-06,Number of Inactive,Female temporary illness,10700,2005-06 temp,Female inactivity due to illness
+53,2005-06,Number of Inactive,Female long-term illness,126500,2005-06 long-term,Female inactivity due to illness
+69,2005-09,Number of Inactive,Female temporary illness,9800,2005-09 temp,Female inactivity due to illness
+73,2005-09,Number of Inactive,Female long-term illness,122100,2005-09 long-term,Female inactivity due to illness
+89,2005-12,Number of Inactive,Female temporary illness,9000,2005-12 temp,Female inactivity due to illness
+93,2005-12,Number of Inactive,Female long-term illness,122800,2005-12 long-term,Female inactivity due to illness
+109,2006-03,Number of Inactive,Female temporary illness,10400,2006-03 temp,Female inactivity due to illness
+113,2006-03,Number of Inactive,Female long-term illness,120000,2006-03 long-term,Female inactivity due to illness
+129,2006-06,Number of Inactive,Female temporary illness,9800,2006-06 temp,Female inactivity due to illness
+133,2006-06,Number of Inactive,Female long-term illness,121100,2006-06 long-term,Female inactivity due to illness
+149,2006-09,Number of Inactive,Female temporary illness,9200,2006-09 temp,Female inactivity due to illness
+153,2006-09,Number of Inactive,Female long-term illness,121700,2006-09 long-term,Female inactivity due to illness
+169,2006-12,Number of Inactive,Female temporary illness,9100,2006-12 temp,Female inactivity due to illness
+173,2006-12,Number of Inactive,Female long-term illness,116900,2006-12 long-term,Female inactivity due to illness
+189,2007-03,Number of Inactive,Female temporary illness,8000,2007-03 temp,Female inactivity due to illness
+193,2007-03,Number of Inactive,Female long-term illness,118700,2007-03 long-term,Female inactivity due to illness
+209,2007-06,Number of Inactive,Female temporary illness,8400,2007-06 temp,Female inactivity due to illness
+213,2007-06,Number of Inactive,Female long-term illness,113200,2007-06 long-term,Female inactivity due to illness
+229,2007-09,Number of Inactive,Female temporary illness,10400,2007-09 temp,Female inactivity due to illness
+233,2007-09,Number of Inactive,Female long-term illness,115000,2007-09 long-term,Female inactivity due to illness
+249,2007-12,Number of Inactive,Female temporary illness,10500,2007-12 temp,Female inactivity due to illness
+253,2007-12,Number of Inactive,Female long-term illness,116400,2007-12 long-term,Female inactivity due to illness
+269,2008-03,Number of Inactive,Female temporary illness,10600,2008-03 temp,Female inactivity due to illness
+273,2008-03,Number of Inactive,Female long-term illness,115700,2008-03 long-term,Female inactivity due to illness
+289,2008-06,Number of Inactive,Female temporary illness,8900,2008-06 temp,Female inactivity due to illness
+293,2008-06,Number of Inactive,Female long-term illness,118100,2008-06 long-term,Female inactivity due to illness
+309,2008-09,Number of Inactive,Female temporary illness,8300,2008-09 temp,Female inactivity due to illness
+313,2008-09,Number of Inactive,Female long-term illness,118800,2008-09 long-term,Female inactivity due to illness
+329,2008-12,Number of Inactive,Female temporary illness,7900,2008-12 temp,Female inactivity due to illness
+333,2008-12,Number of Inactive,Female long-term illness,117700,2008-12 long-term,Female inactivity due to illness
+349,2009-03,Number of Inactive,Female temporary illness,7700,2009-03 temp,Female inactivity due to illness
+353,2009-03,Number of Inactive,Female long-term illness,116500,2009-03 long-term,Female inactivity due to illness
+369,2009-06,Number of Inactive,Female temporary illness,7400,2009-06 temp,Female inactivity due to illness
+373,2009-06,Number of Inactive,Female long-term illness,111100,2009-06 long-term,Female inactivity due to illness
+389,2009-09,Number of Inactive,Female temporary illness,7100,2009-09 temp,Female inactivity due to illness
+393,2009-09,Number of Inactive,Female long-term illness,108900,2009-09 long-term,Female inactivity due to illness
+409,2009-12,Number of Inactive,Female temporary illness,7600,2009-12 temp,Female inactivity due to illness
+413,2009-12,Number of Inactive,Female long-term illness,107200,2009-12 long-term,Female inactivity due to illness
+429,2010-03,Number of Inactive,Female temporary illness,8100,2010-03 temp,Female inactivity due to illness
+433,2010-03,Number of Inactive,Female long-term illness,105600,2010-03 long-term,Female inactivity due to illness
+449,2010-06,Number of Inactive,Female temporary illness,8600,2010-06 temp,Female inactivity due to illness
+453,2010-06,Number of Inactive,Female long-term illness,108600,2010-06 long-term,Female inactivity due to illness
+469,2010-09,Number of Inactive,Female temporary illness,8200,2010-09 temp,Female inactivity due to illness
+473,2010-09,Number of Inactive,Female long-term illness,110900,2010-09 long-term,Female inactivity due to illness
+489,2010-12,Number of Inactive,Female temporary illness,8000,2010-12 temp,Female inactivity due to illness
+493,2010-12,Number of Inactive,Female long-term illness,112000,2010-12 long-term,Female inactivity due to illness
+509,2011-03,Number of Inactive,Female temporary illness,6800,2011-03 temp,Female inactivity due to illness
+513,2011-03,Number of Inactive,Female long-term illness,114700,2011-03 long-term,Female inactivity due to illness
+529,2011-06,Number of Inactive,Female temporary illness,6900,2011-06 temp,Female inactivity due to illness
+533,2011-06,Number of Inactive,Female long-term illness,116600,2011-06 long-term,Female inactivity due to illness
+549,2011-09,Number of Inactive,Female temporary illness,7800,2011-09 temp,Female inactivity due to illness
+553,2011-09,Number of Inactive,Female long-term illness,116600,2011-09 long-term,Female inactivity due to illness
+569,2011-12,Number of Inactive,Female temporary illness,7800,2011-12 temp,Female inactivity due to illness
+573,2011-12,Number of Inactive,Female long-term illness,118200,2011-12 long-term,Female inactivity due to illness
+589,2012-03,Number of Inactive,Female temporary illness,8700,2012-03 temp,Female inactivity due to illness
+593,2012-03,Number of Inactive,Female long-term illness,118500,2012-03 long-term,Female inactivity due to illness
+609,2012-06,Number of Inactive,Female temporary illness,9600,2012-06 temp,Female inactivity due to illness
+613,2012-06,Number of Inactive,Female long-term illness,118500,2012-06 long-term,Female inactivity due to illness
+629,2012-09,Number of Inactive,Female temporary illness,10400,2012-09 temp,Female inactivity due to illness
+633,2012-09,Number of Inactive,Female long-term illness,116900,2012-09 long-term,Female inactivity due to illness
+649,2012-12,Number of Inactive,Female temporary illness,10000,2012-12 temp,Female inactivity due to illness
+653,2012-12,Number of Inactive,Female long-term illness,116900,2012-12 long-term,Female inactivity due to illness
+669,2013-03,Number of Inactive,Female temporary illness,9000,2013-03 temp,Female inactivity due to illness
+673,2013-03,Number of Inactive,Female long-term illness,118500,2013-03 long-term,Female inactivity due to illness
+689,2013-06,Number of Inactive,Female temporary illness,9500,2013-06 temp,Female inactivity due to illness
+693,2013-06,Number of Inactive,Female long-term illness,118700,2013-06 long-term,Female inactivity due to illness
+709,2013-09,Number of Inactive,Female temporary illness,9400,2013-09 temp,Female inactivity due to illness
+713,2013-09,Number of Inactive,Female long-term illness,116900,2013-09 long-term,Female inactivity due to illness
+729,2013-12,Number of Inactive,Female temporary illness,10000,2013-12 temp,Female inactivity due to illness
+733,2013-12,Number of Inactive,Female long-term illness,112900,2013-12 long-term,Female inactivity due to illness
+749,2014-03,Number of Inactive,Female temporary illness,11100,2014-03 temp,Female inactivity due to illness
+753,2014-03,Number of Inactive,Female long-term illness,110400,2014-03 long-term,Female inactivity due to illness
+769,2014-06,Number of Inactive,Female temporary illness,9300,2014-06 temp,Female inactivity due to illness
+773,2014-06,Number of Inactive,Female long-term illness,106900,2014-06 long-term,Female inactivity due to illness
+789,2014-09,Number of Inactive,Female temporary illness,9300,2014-09 temp,Female inactivity due to illness
+793,2014-09,Number of Inactive,Female long-term illness,104900,2014-09 long-term,Female inactivity due to illness
+809,2014-12,Number of Inactive,Female temporary illness,10400,2014-12 temp,Female inactivity due to illness
+813,2014-12,Number of Inactive,Female long-term illness,105400,2014-12 long-term,Female inactivity due to illness
+829,2015-03,Number of Inactive,Female temporary illness,10200,2015-03 temp,Female inactivity due to illness
+833,2015-03,Number of Inactive,Female long-term illness,102600,2015-03 long-term,Female inactivity due to illness
+849,2015-06,Number of Inactive,Female temporary illness,10100,2015-06 temp,Female inactivity due to illness
+853,2015-06,Number of Inactive,Female long-term illness,101700,2015-06 long-term,Female inactivity due to illness
+869,2015-09,Number of Inactive,Female temporary illness,9800,2015-09 temp,Female inactivity due to illness
+873,2015-09,Number of Inactive,Female long-term illness,106200,2015-09 long-term,Female inactivity due to illness
+889,2015-12,Number of Inactive,Female temporary illness,9300,2015-12 temp,Female inactivity due to illness
+893,2015-12,Number of Inactive,Female long-term illness,107800,2015-12 long-term,Female inactivity due to illness
+909,2016-03,Number of Inactive,Female temporary illness,9200,2016-03 temp,Female inactivity due to illness
+913,2016-03,Number of Inactive,Female long-term illness,110300,2016-03 long-term,Female inactivity due to illness
+929,2016-06,Number of Inactive,Female temporary illness,10500,2016-06 temp,Female inactivity due to illness
+933,2016-06,Number of Inactive,Female long-term illness,111600,2016-06 long-term,Female inactivity due to illness
+949,2016-09,Number of Inactive,Female temporary illness,10500,2016-09 temp,Female inactivity due to illness
+953,2016-09,Number of Inactive,Female long-term illness,114200,2016-09 long-term,Female inactivity due to illness
+969,2016-12,Number of Inactive,Female temporary illness,10100,2016-12 temp,Female inactivity due to illness
+973,2016-12,Number of Inactive,Female long-term illness,114500,2016-12 long-term,Female inactivity due to illness
+989,2017-03,Number of Inactive,Female temporary illness,10100,2017-03 temp,Female inactivity due to illness
+993,2017-03,Number of Inactive,Female long-term illness,112000,2017-03 long-term,Female inactivity due to illness
+1009,2017-06,Number of Inactive,Female temporary illness,9400,2017-06 temp,Female inactivity due to illness
+1013,2017-06,Number of Inactive,Female long-term illness,113900,2017-06 long-term,Female inactivity due to illness
+1029,2017-09,Number of Inactive,Female temporary illness,8400,2017-09 temp,Female inactivity due to illness
+1033,2017-09,Number of Inactive,Female long-term illness,110000,2017-09 long-term,Female inactivity due to illness
+1049,2017-12,Number of Inactive,Female temporary illness,7900,2017-12 temp,Female inactivity due to illness
+1053,2017-12,Number of Inactive,Female long-term illness,109700,2017-12 long-term,Female inactivity due to illness
+1069,2018-03,Number of Inactive,Female temporary illness,8100,2018-03 temp,Female inactivity due to illness
+1073,2018-03,Number of Inactive,Female long-term illness,108300,2018-03 long-term,Female inactivity due to illness
+1089,2018-06,Number of Inactive,Female temporary illness,7200,2018-06 temp,Female inactivity due to illness
+1093,2018-06,Number of Inactive,Female long-term illness,105000,2018-06 long-term,Female inactivity due to illness
+1109,2018-09,Number of Inactive,Female temporary illness,7900,2018-09 temp,Female inactivity due to illness
+1113,2018-09,Number of Inactive,Female long-term illness,105200,2018-09 long-term,Female inactivity due to illness
+1129,2018-12,Number of Inactive,Female temporary illness,8200,2018-12 temp,Female inactivity due to illness
+1133,2018-12,Number of Inactive,Female long-term illness,107800,2018-12 long-term,Female inactivity due to illness
+1149,2019-03,Number of Inactive,Female temporary illness,7900,2019-03 temp,Female inactivity due to illness
+1153,2019-03,Number of Inactive,Female long-term illness,107300,2019-03 long-term,Female inactivity due to illness
+1169,2019-06,Number of Inactive,Female temporary illness,8300,2019-06 temp,Female inactivity due to illness
+1173,2019-06,Number of Inactive,Female long-term illness,110000,2019-06 long-term,Female inactivity due to illness
+1189,2019-09,Number of Inactive,Female temporary illness,8400,2019-09 temp,Female inactivity due to illness
+1193,2019-09,Number of Inactive,Female long-term illness,106400,2019-09 long-term,Female inactivity due to illness
+1209,2019-12,Number of Inactive,Female temporary illness,9000,2019-12 temp,Female inactivity due to illness
+1213,2019-12,Number of Inactive,Female long-term illness,107000,2019-12 long-term,Female inactivity due to illness
+1229,2020-03,Number of Inactive,Female temporary illness,7200,2020-03 temp,Female inactivity due to illness
+1233,2020-03,Number of Inactive,Female long-term illness,112300,2020-03 long-term,Female inactivity due to illness
+1249,2020-06,Number of Inactive,Female temporary illness,7800,2020-06 temp,Female inactivity due to illness
+1253,2020-06,Number of Inactive,Female long-term illness,108800,2020-06 long-term,Female inactivity due to illness
+1269,2020-09,Number of Inactive,Female temporary illness,7700,2020-09 temp,Female inactivity due to illness
+1273,2020-09,Number of Inactive,Female long-term illness,113600,2020-09 long-term,Female inactivity due to illness
+1289,2020-12,Number of Inactive,Female temporary illness,5800,2020-12 temp,Female inactivity due to illness
+1293,2020-12,Number of Inactive,Female long-term illness,115000,2020-12 long-term,Female inactivity due to illness
+1309,2021-03,Number of Inactive,Female temporary illness,6000,2021-03 temp,Female inactivity due to illness
+1313,2021-03,Number of Inactive,Female long-term illness,122600,2021-03 long-term,Female inactivity due to illness
+1329,2021-06,Number of Inactive,Female temporary illness,7500,2021-06 temp,Female inactivity due to illness
+1333,2021-06,Number of Inactive,Female long-term illness,125000,2021-06 long-term,Female inactivity due to illness
+1349,2021-09,Number of Inactive,Female temporary illness,6800,2021-09 temp,Female inactivity due to illness
+1353,2021-09,Number of Inactive,Female long-term illness,125500,2021-09 long-term,Female inactivity due to illness
+1369,2021-12,Number of Inactive,Female temporary illness,6700,2021-12 temp,Female inactivity due to illness
+1373,2021-12,Number of Inactive,Female long-term illness,125900,2021-12 long-term,Female inactivity due to illness
+1389,2022-03,Number of Inactive,Female temporary illness,7400,2022-03 temp,Female inactivity due to illness
+1393,2022-03,Number of Inactive,Female long-term illness,124000,2022-03 long-term,Female inactivity due to illness
+1409,2022-06,Number of Inactive,Female temporary illness,8000,2022-06 temp,Female inactivity due to illness
+1413,2022-06,Number of Inactive,Female long-term illness,124100,2022-06 long-term,Female inactivity due to illness
+1429,2022-09,Number of Inactive,Female temporary illness,7300,2022-09 temp,Female inactivity due to illness
+1433,2022-09,Number of Inactive,Female long-term illness,127200,2022-09 long-term,Female inactivity due to illness
+1449,2022-12,Number of Inactive,Female temporary illness,9700,2022-12 temp,Female inactivity due to illness
+1453,2022-12,Number of Inactive,Female long-term illness,127100,2022-12 long-term,Female inactivity due to illness
+1469,2023-03,Number of Inactive,Female temporary illness,11100,2023-03 temp,Female inactivity due to illness
+1473,2023-03,Number of Inactive,Female long-term illness,119100,2023-03 long-term,Female inactivity due to illness
+17,2004-12,Number of Inactive,Total Inactive,765100,2004-12 Inactive,Inactive
+37,2005-03,Number of Inactive,Total Inactive,763800,2005-03 Inactive,Inactive
+57,2005-06,Number of Inactive,Total Inactive,768200,2005-06 Inactive,Inactive
+77,2005-09,Number of Inactive,Total Inactive,761100,2005-09 Inactive,Inactive
+97,2005-12,Number of Inactive,Total Inactive,758600,2005-12 Inactive,Inactive
+117,2006-03,Number of Inactive,Total Inactive,758800,2006-03 Inactive,Inactive
+137,2006-06,Number of Inactive,Total Inactive,752400,2006-06 Inactive,Inactive
+157,2006-09,Number of Inactive,Total Inactive,757600,2006-09 Inactive,Inactive
+177,2006-12,Number of Inactive,Total Inactive,739100,2006-12 Inactive,Inactive
+197,2007-03,Number of Inactive,Total Inactive,737400,2007-03 Inactive,Inactive
+217,2007-06,Number of Inactive,Total Inactive,739900,2007-06 Inactive,Inactive
+237,2007-09,Number of Inactive,Total Inactive,738400,2007-09 Inactive,Inactive
+257,2007-12,Number of Inactive,Total Inactive,753700,2007-12 Inactive,Inactive
+277,2008-03,Number of Inactive,Total Inactive,753200,2008-03 Inactive,Inactive
+297,2008-06,Number of Inactive,Total Inactive,749800,2008-06 Inactive,Inactive
+317,2008-09,Number of Inactive,Total Inactive,749600,2008-09 Inactive,Inactive
+337,2008-12,Number of Inactive,Total Inactive,764300,2008-12 Inactive,Inactive
+357,2009-03,Number of Inactive,Total Inactive,761500,2009-03 Inactive,Inactive
+377,2009-06,Number of Inactive,Total Inactive,764700,2009-06 Inactive,Inactive
+397,2009-09,Number of Inactive,Total Inactive,762500,2009-09 Inactive,Inactive
+417,2009-12,Number of Inactive,Total Inactive,766800,2009-12 Inactive,Inactive
+437,2010-03,Number of Inactive,Total Inactive,782400,2010-03 Inactive,Inactive
+457,2010-06,Number of Inactive,Total Inactive,786900,2010-06 Inactive,Inactive
+477,2010-09,Number of Inactive,Total Inactive,786900,2010-09 Inactive,Inactive
+497,2010-12,Number of Inactive,Total Inactive,784600,2010-12 Inactive,Inactive
+517,2011-03,Number of Inactive,Total Inactive,783900,2011-03 Inactive,Inactive
+537,2011-06,Number of Inactive,Total Inactive,789700,2011-06 Inactive,Inactive
+557,2011-09,Number of Inactive,Total Inactive,796100,2011-09 Inactive,Inactive
+577,2011-12,Number of Inactive,Total Inactive,794600,2011-12 Inactive,Inactive
+597,2012-03,Number of Inactive,Total Inactive,797700,2012-03 Inactive,Inactive
+617,2012-06,Number of Inactive,Total Inactive,787600,2012-06 Inactive,Inactive
+637,2012-09,Number of Inactive,Total Inactive,791900,2012-09 Inactive,Inactive
+657,2012-12,Number of Inactive,Total Inactive,793900,2012-12 Inactive,Inactive
+677,2013-03,Number of Inactive,Total Inactive,795000,2013-03 Inactive,Inactive
+697,2013-06,Number of Inactive,Total Inactive,801400,2013-06 Inactive,Inactive
+717,2013-09,Number of Inactive,Total Inactive,798700,2013-09 Inactive,Inactive
+737,2013-12,Number of Inactive,Total Inactive,790300,2013-12 Inactive,Inactive
+757,2014-03,Number of Inactive,Total Inactive,781900,2014-03 Inactive,Inactive
+777,2014-06,Number of Inactive,Total Inactive,772200,2014-06 Inactive,Inactive
+797,2014-09,Number of Inactive,Total Inactive,771300,2014-09 Inactive,Inactive
+817,2014-12,Number of Inactive,Total Inactive,769300,2014-12 Inactive,Inactive
+837,2015-03,Number of Inactive,Total Inactive,759200,2015-03 Inactive,Inactive
+857,2015-06,Number of Inactive,Total Inactive,768500,2015-06 Inactive,Inactive
+877,2015-09,Number of Inactive,Total Inactive,758500,2015-09 Inactive,Inactive
+897,2015-12,Number of Inactive,Total Inactive,764000,2015-12 Inactive,Inactive
+917,2016-03,Number of Inactive,Total Inactive,776800,2016-03 Inactive,Inactive
+937,2016-06,Number of Inactive,Total Inactive,785200,2016-06 Inactive,Inactive
+957,2016-09,Number of Inactive,Total Inactive,800700,2016-09 Inactive,Inactive
+977,2016-12,Number of Inactive,Total Inactive,799400,2016-12 Inactive,Inactive
+997,2017-03,Number of Inactive,Total Inactive,794200,2017-03 Inactive,Inactive
+1017,2017-06,Number of Inactive,Total Inactive,794300,2017-06 Inactive,Inactive
+1037,2017-09,Number of Inactive,Total Inactive,782900,2017-09 Inactive,Inactive
+1057,2017-12,Number of Inactive,Total Inactive,776500,2017-12 Inactive,Inactive
+1077,2018-03,Number of Inactive,Total Inactive,772300,2018-03 Inactive,Inactive
+1097,2018-06,Number of Inactive,Total Inactive,766200,2018-06 Inactive,Inactive
+1117,2018-09,Number of Inactive,Total Inactive,769900,2018-09 Inactive,Inactive
+1137,2018-12,Number of Inactive,Total Inactive,777600,2018-12 Inactive,Inactive
+1157,2019-03,Number of Inactive,Total Inactive,765300,2019-03 Inactive,Inactive
+1177,2019-06,Number of Inactive,Total Inactive,761700,2019-06 Inactive,Inactive
+1197,2019-09,Number of Inactive,Total Inactive,762700,2019-09 Inactive,Inactive
+1217,2019-12,Number of Inactive,Total Inactive,772800,2019-12 Inactive,Inactive
+1237,2020-03,Number of Inactive,Total Inactive,790200,2020-03 Inactive,Inactive
+1257,2020-06,Number of Inactive,Total Inactive,794600,2020-06 Inactive,Inactive
+1277,2020-09,Number of Inactive,Total Inactive,801500,2020-09 Inactive,Inactive
+1297,2020-12,Number of Inactive,Total Inactive,797300,2020-12 Inactive,Inactive
+1317,2021-03,Number of Inactive,Total Inactive,808200,2021-03 Inactive,Inactive
+1337,2021-06,Number of Inactive,Total Inactive,827000,2021-06 Inactive,Inactive
+1357,2021-09,Number of Inactive,Total Inactive,818200,2021-09 Inactive,Inactive
+1377,2021-12,Number of Inactive,Total Inactive,815200,2021-12 Inactive,Inactive
+1397,2022-03,Number of Inactive,Total Inactive,807600,2022-03 Inactive,Inactive
+1417,2022-06,Number of Inactive,Total Inactive,786300,2022-06 Inactive,Inactive
+1437,2022-09,Number of Inactive,Total Inactive,785000,2022-09 Inactive,Inactive
+1457,2022-12,Number of Inactive,Total Inactive,788500,2022-12 Inactive,Inactive
+1477,2023-03,Number of Inactive,Total Inactive,778100,2023-03 Inactive,Inactive
