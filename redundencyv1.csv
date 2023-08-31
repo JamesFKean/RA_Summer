@@ -1,0 +1,43 @@
+,Variable,Value,Year,Group,Rank
+0,Dismissed / Redundancy,18.1,2021,All,5.0
+7,Dismissed / Redundancy,15.2,2022,All,5.0
+1,Health Reasons,21.3,2021,All,6.0
+10,Health Reasons,21.9,2022,All,6.0
+2,Job came to an end,4.4,2021,All,1.0
+8,Job came to an end,4.3,2022,All,1.0
+3,Look after home or family,9.2,2021,All,4.0
+12,Look after home or family,9.5,2022,All,4.0
+4,Other,6.9,2021,All,3.0
+13,Other,5.8,2022,All,3.0
+5,Resigned,5.4,2021,All,2.0
+9,Resigned,6.1,2022,All,2.0
+6,Retirement,34.6,2021,All,7.0
+11,Retirement,37.0,2022,All,7.0
+7,Dismissed / Redundancy,15.4,2021,Female,5.0
+35,Dismissed / Redundancy,12.1,2022,Female,5.0
+8,Health Reasons,23.1,2021,Female,6.0
+38,Health Reasons,22.9,2022,Female,6.0
+9,Job came to an end,3.9,2021,Female,1.0
+36,Job came to an end,4.0,2022,Female,1.0
+10,Look after home or family,11.4,2021,Female,4.0
+40,Look after home or family,12.7,2022,Female,4.0
+11,Other,6.6,2021,Female,2.5
+41,Other,5.9,2022,Female,2.5
+12,Resigned,6.6,2021,Female,2.5
+37,Resigned,7.1,2022,Female,2.5
+13,Retirement,33.1,2021,Female,7.0
+39,Retirement,35.3,2022,Female,7.0
+14,Dismissed / Redundancy,21.3,2021,Male,6.0
+21,Dismissed / Redundancy,19.1,2022,Male,6.0
+15,Health Reasons,19.3,2021,Male,5.0
+24,Health Reasons,20.8,2022,Male,5.0
+16,Job came to an end,5.1,2021,Male,2.0
+22,Job came to an end,4.6,2022,Male,2.0
+17,Look after home or family,6.7,2021,Male,3.0
+26,Look after home or family,5.7,2022,Male,3.0
+18,Other,7.1,2021,Male,4.0
+27,Other,5.7,2022,Male,4.0
+19,Resigned,4.2,2021,Male,1.0
+23,Resigned,5.0,2022,Male,1.0
+20,Retirement,36.3,2021,Male,7.0
+25,Retirement,39.0,2022,Male,7.0
